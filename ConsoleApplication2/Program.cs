@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args) 
         {
+            Console.WriteLine("Trololololo");
             Kubelek kubel = new Kubelek(5, 3);
             List<int> wyniki = kubel.rzut();
         }
